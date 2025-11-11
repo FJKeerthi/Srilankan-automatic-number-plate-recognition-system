@@ -1,0 +1,40 @@
+# Essential dependencies for License Plate Recognition Scripts
+
+# PyTorch - Deep Learning Framework
+torch
+torchvision
+torchaudio
+
+# YOLOv5 - Object Detection
+ultralytics
+
+# Computer Vision
+opencv-python
+
+# OCR - Optical Character Recognition
+easyocr
+
+# Core Scientific Computing
+numpy
+scipy
+pandas
+matplotlib
+Pillow
+
+# Progress Bar
+tqdm
+
+# YAML Configuration
+PyYAML
+
+# HTTP Requests
+requests
+
+# Visualization
+seaborn
+
+# For notebook (optional - only if running notebook)
+xmltodict
+split-folders
+GPUtil
+scikit-learn
